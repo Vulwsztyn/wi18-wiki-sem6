@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 # title: WI 18 Wiki
+title: WI 18 Wiki
 masthead_title: "WI 18 Wiki"
 subtitle: "Version 1.0"
 email: piotr@ptl.cloud
