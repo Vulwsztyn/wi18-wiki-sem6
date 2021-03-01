@@ -3,7 +3,7 @@ layout: single
 ---
 # Zajęcia
 
-## Bioinformatyka
+## [Bioinformatyka](../classes/bioinf.md)
 
 ## Informatyka w Medycynie
 
