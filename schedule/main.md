@@ -1,4 +1,4 @@
 ---
 layout: single
 ---
-# Laboratoria
+# Plan Zajęć

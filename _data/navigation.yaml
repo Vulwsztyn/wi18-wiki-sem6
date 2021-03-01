@@ -1,8 +1,8 @@
 main:
-  - title: "Laboratoria"
-    url: /labos/main.html
-  - title: "Wykłady"
-    url: /lectures/main.html
+  - title: "Zajęcia"
+    url: /agenda/main.html
+  - title: "Plan"
+    url: /schedule/main.html
   # - title: "Categories"
   #   url: /categories/
   # - title: "Tags"
