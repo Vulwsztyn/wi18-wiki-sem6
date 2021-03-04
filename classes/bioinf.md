@@ -4,22 +4,19 @@ layout: single
 # Bioinformatyka
 
 ## Wykłady
-#### prof. dr hab. inż. [Krzysztof Krawiec](http://www.cs.put.poznan.pl/kkrawiec/wiki/?n=Zajecia.InformatykaWMedycynie)  
-*krawiec@cs.put.poznan.pl*
-
-#### dr hab. [Szymon Wilk  ](http://www.cs.put.poznan.pl/swilk/pmwiki/)
-*szymon.wilk@cs.put.poznan.pl*
-
-- [eKursy](https://ekursy.put.poznan.pl/course/view.php?id=3617)
-- [Zoom](https://us02web.zoom.us/j/88300032095?pwd=RmFVYndUVzRrcGhDTGRCYTNrbnlCdz09#success)
+#### prof. dr hab. inż. [Piotr Formanowicz](http://www.cs.put.poznan.pl/kkrawiec/wiki/?n=Zajecia.InformatykaWMedycynie)  
+*Piotr.Formanowicz@cs.put.poznan.p*
+- [Zoom](https://us02web.zoom.us/j/87492793667?pwd=UGNxY1JXS3piMm10THYyZlppSGtXUT09)
 
 ## Labolatoria
-### Iwo Błądek
-*link*
+### [Marta Kasprzak](http://www.cs.put.poznan.pl/mkasprzak/bio/bio.html)
+*marta.kasprzak@put.poznan.pl*
+- [BBB](https://ekursy.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=241898)
 
-### Szymon "Biały" Wilk
-- [Zoom](https://us02web.zoom.us/j/85489255639?pwd=NXN1TG9zL2ZYMUlmN2x4NDZ5SnkzZz09#success)
+### [Marcin Random](www.cs.put.poznan.pl/mradom)
+*marcin.radom@cs.put.ponzan.pl*
 
-### Magdalena Martyn <3
-*link*
+### [Piotr Wawrzyniak](http://www.piotr.e.wawrzyniak.doctorate.put.poznan.pl/)
+*piotr.wawrzyniak@cs.put.poznan.pl*
+
 
