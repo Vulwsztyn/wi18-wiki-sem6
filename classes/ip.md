@@ -4,8 +4,7 @@ layout: single
 # Informatyzacja Przedsiębiorstw
 
 ## Wykłady
-#### dr hab. inż. [Izabela Szczęch](
-http://www.cs.put.poznan.pl/iszczech/Informatyzacja_przedsiebiorstw.html)
+#### dr hab. inż. [Izabela Szczęch](http://www.cs.put.poznan.pl/iszczech/Informatyzacja_przedsiebiorstw.html)
 *izabela.szczech@put.poznan.pl*
 - [ZOOM](https://us02web.zoom.us/j/88028220570?pwd=NC9wN01IUG90cmRqWXFUYldhbkQ5UT09)
 
