@@ -12,13 +12,13 @@ layout: single
 [Rafał Walkowiak](http://www.cs.put.poznan.pl/rwalkowiak/)
 *rafal.walkowiak@put.poznan.pl*
 - BBB linki dla każdej grupy:
-  - L1
-  - L2
-  - L3
-  - L4
-  - L5
-  - L6
+  - [L1](https://www.youtube.com/watch?v=C-_JKjsXKao)
+  - [L2](https://www.youtube.com/watch?v=C-_JKjsXKao)
+  - [L3](https://www.youtube.com/watch?v=C-_JKjsXKao)
+  - [L4](https://www.youtube.com/watch?v=C-_JKjsXKao)
+  - [L5](https://www.youtube.com/watch?v=C-_JKjsXKao)
+  - [L6](https://www.youtube.com/watch?v=C-_JKjsXKao)
   - [L7](https://ekursy.put.poznan.pl/mod/bigbluebuttonbn/view.php?id=887663)
-  - L8
-  - L9
-  - L10
+  - [L8](https://www.youtube.com/watch?v=C-_JKjsXKao)
+  - [L9](https://www.youtube.com/watch?v=C-_JKjsXKao)
+  - [L10](https://www.youtube.com/watch?v=C-_JKjsXKao)
