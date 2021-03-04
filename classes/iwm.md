@@ -1,7 +1,7 @@
 ---
 layout: single
 ---
-# Bioinformatyka
+# Informatyka w medycynie
 
 ## Wykłady
 #### prof. dr hab. inż. [Krzysztof Krawiec](http://www.cs.put.poznan.pl/kkrawiec/wiki/?n=Zajecia.InformatykaWMedycynie)  
