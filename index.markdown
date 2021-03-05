@@ -25,7 +25,8 @@ layout: single
 
 Władza zwierzchnia w *Wikipedia Wydziałowa* należy do Admina.
 Admin sprawuje władzę przez swoich przedstawicieli lub bezpośrednio.
-Art. 5.
+
+### Art. 5.
 
 *Wikipedia Wydziałowa* strzeże niepodległości i nienaruszalności swojego terytorium, zapewnia wolności i prawa człowieka i obywatela oraz bezpieczeństwo obywateli, strzeże dziedzictwa narodowego oraz zapewnia ochronę środowiska, kierując się zasadą zrównoważonego rozwoju.
 
