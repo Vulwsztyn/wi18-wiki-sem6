@@ -6,6 +6,7 @@ layout: single
 ## Wykłady
 #### prof. dr hab. inż. [Krzysztof Krawiec](http://www.cs.put.poznan.pl/kkrawiec/wiki/?n=Zajecia.InformatykaWMedycynie)  
 *krawiec@cs.put.poznan.pl*
+- [ZOOM](https://us02web.zoom.us/j/94704428387?pwd=TzlLNE05cWFlTU1jOGtOQUR5YjY0dz09)
 
 #### dr hab. [Szymon Wilk](http://www.cs.put.poznan.pl/swilk/pmwiki/)
 *szymon.wilk@cs.put.poznan.pl*
@@ -16,6 +17,7 @@ layout: single
 ## Labolatoria
 ### [Iwo Błądek](https://www.cs.put.poznan.pl/ibladek/wiki/pmwiki.php?n=Main.InfIwM)
 *iwo.bladek@put.poznan.pl*
+- [ZOOM](https://zoom.us/j/98630157061?pwd=Z3B0MURUQ2dzSFpybGRHWnNrZjQ0dz09)
 
 ### [Szymon "Biały" Wilk](http://www.cs.put.poznan.pl/swilk/pmwiki/)
 *szymon.wilk@put.poznan.pl*
